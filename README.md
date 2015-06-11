@@ -1,6 +1,8 @@
 FeatureBook
 ===========
 
+[![Join the chat at https://gitter.im/tau-labs/featurebook](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tau-labs/featurebook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/SOFTWARE-CLINIC/featurebook.svg)](https://travis-ci.org/SOFTWARE-CLINIC/featurebook)
 [![CircleCI](https://img.shields.io/circleci/project/tau-labs/featurebook/master.svg?style=shield)](https://circleci.com/gh/tau-labs/featurebook)
 [![GitHub issues](https://img.shields.io/github/issues/tau-labs/featurebook.svg)](https://github.com/tau-labs/featurebook/issues)
